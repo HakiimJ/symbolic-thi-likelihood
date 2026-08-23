@@ -3,7 +3,7 @@
 This repository contains the complete production-ready R replication pipeline, dataset acquisition routines, Monte Carlo simulation engines, and figure generation code for the manuscript:
 
 > **"Performance and Robustness of Numerical Optimisation Algorithms under Aggregation-Induced Likelihood Compression"**
-> *Ahmad Hakiim Jamaluddin, Muhammad Jaffri Mohd Nasir, Farid Zamani Che Rose, Muhammad Aslam Mohd Safari, Andrea Tri Rian Dani, and Syaiful Anam.*
+> *Ahmad Hakiim Jamaluddin, Farid Zamani Che Rose, Muhammad Aslam Mohd Safari, Muhammad Jaffri Mohd Nasir, Andrea Tri Rian Dani, and Syaiful Anam.*
 
 ---
 
