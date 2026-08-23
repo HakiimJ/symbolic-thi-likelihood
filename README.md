@@ -92,7 +92,7 @@ If you use or adapt this codebase for your research, please cite our manuscript:
 @article{jamaluddin2026symbolic,
   title={Performance and Robustness of Numerical Optimisation Algorithms under Aggregation-Induced Likelihood Compression},
   author={Jamaluddin, Ahmad Hakiim and Nasir, Muhammad Jaffri Mohd and Rose, Farid Zamani Che and Safari, Muhammad Aslam Mohd and Dani, Andrea Tri Rian and Anam, Syaiful},
-  journal={Computational Statistics \& Data Analysis},
+  journal={arXiv},
   note={Under Review},
   year={2026}
 }
