@@ -100,3 +100,4 @@ If you use or adapt this codebase for your research, please cite our manuscript:
 ```
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The [DOI: 10.5281/zenodo.22781808](https://doi.org/10.5281/zenodo.22781808)
