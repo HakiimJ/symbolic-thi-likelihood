@@ -1,4 +1,4 @@
-# Performance and Robustness of Numerical Optimisation Algorithms under Aggregation-Induced Likelihood Compression
+# Symbolic Maximum Likelihood Estimation for Moving-Window Temperature--Humidity Index Inference
 
 [![Status: Under Review](https://img.shields.io/badge/Status-Under_Review-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -6,7 +6,7 @@
 
 This repository contains the complete production-ready R replication pipeline, dataset acquisition routines, Monte Carlo simulation engines, and figure generation code for the manuscript:
 
-> **"Performance and Robustness of Numerical Optimisation Algorithms under Aggregation-Induced Likelihood Compression"**
+> **"Symbolic Maximum Likelihood Estimation for Moving-Window Temperature--Humidity Index Inference"**
 > *Ahmad Hakiim Jamaluddin, Farid Zamani Che Rose, Muhammad Jaffri Mohd Nasir, Muhammad Aslam Mohd Safari, Andrea Tri Rian Dani, and Syaiful Anam.*
 
 ---
@@ -94,7 +94,7 @@ If you use or adapt this codebase for your research, please cite our manuscript:
 
 ```bibtex
 @article{jamaluddin2026symbolic,
-  title={Performance and Robustness of Numerical Optimisation Algorithms under Aggregation-Induced Likelihood Compression},
+  title={Symbolic Maximum Likelihood Estimation for Moving-Window Temperature--Humidity Index Inference},
   author={Jamaluddin, Ahmad Hakiim and Rose, Farid Zamani Che and Nasir, Muhammad Jaffri Mohd and Safari, Muhammad Aslam Mohd and Dani, Andrea Tri Rian and Anam, Syaiful},
   journal={arXiv},
   note={Under Review},
