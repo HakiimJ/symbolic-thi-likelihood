@@ -1,5 +1,9 @@
 # Performance and Robustness of Numerical Optimisation Algorithms under Aggregation-Induced Likelihood Compression
 
+[![Status: Under Review](https://img.shields.io/badge/Status-Under_Review-blue.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22781808.svg)](https://doi.org/10.5281/zenodo.22781808)
+
 This repository contains the complete production-ready R replication pipeline, dataset acquisition routines, Monte Carlo simulation engines, and figure generation code for the manuscript:
 
 > **"Performance and Robustness of Numerical Optimisation Algorithms under Aggregation-Induced Likelihood Compression"**
@@ -96,8 +100,3 @@ If you use or adapt this codebase for your research, please cite our manuscript:
   note={Under Review},
   year={2026}
 }
-
-```
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-The [DOI: 10.5281/zenodo.22781808](https://doi.org/10.5281/zenodo.22781808)
